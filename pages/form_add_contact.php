@@ -3,8 +3,8 @@
 	<div class="control-group">
 		<label class="control-label" for="name">Name</label>
 		<div class="controls">
-			<input name="name" placeholder="First" />
-			<input name="name" placeholder="Last" />
+			<input name="first_name" placeholder="First" />
+			<input name="last_name" placeholder="Last" />
 		</div>
 	</div>
 	

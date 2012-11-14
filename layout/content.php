@@ -11,4 +11,4 @@ if(isset($_GET['p'])) {
 	$page = 'contacts';
 }
 
-include("pages/$page.php");
+include("pages/$page.php"); ?>

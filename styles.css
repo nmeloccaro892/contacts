@@ -6,3 +6,16 @@ nav img {
 	float:left;
 	height:20px;
 }
+
+.contact {
+	overflow:auto;
+	width:400px;
+	float:left;
+	margin:10px 10px 10px 0px;
+	border:1px solid #999;
+	padding:8px;
+}
+
+.contact img {
+	float: right;
+}
